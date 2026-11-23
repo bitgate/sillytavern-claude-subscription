@@ -1,0 +1,3 @@
+# SillyTavern > API Connections > Additional Parameters > Include Body Parameters
+# Values: none, minimal, low, medium, high, xhigh, max
+reasoning_effort: high
